@@ -1,0 +1,9 @@
+flask
+flask_cors
+torch
+nltk
+gtts
+SpeechRecognition
+tailwindcss
+numpy
+json5
